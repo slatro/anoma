@@ -154,4 +154,4 @@ release.
 For more information on a smooth git experience check out the [git
 section in contributor's guide](./documentation/contributing/git.livemd)
 
-Happy hacking, and don't be afraid to submit patches.
+Happy hacking, and don't be afraid to submit patches
